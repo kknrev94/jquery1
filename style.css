@@ -1,0 +1,30 @@
+.container{
+	font-size: 20px;
+}
+.row{
+	border-style: outset;
+}
+#para1{
+	color:skyblue;
+}
+.addExtraFont1{
+	background-color: white;
+	font-style: italic;
+}
+#para2{
+	color:skyblue;
+}
+#para3{
+	color:skyblue;
+
+}
+.underline{
+	text-decoration: underline;
+}
+.fontcolor{
+	font-style: italic;
+	color:black;
+}
+.bgc{
+	background-color: pink;
+}
